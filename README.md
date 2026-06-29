@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://i.ibb.co/TD44YG5y/tumblr-owi25v6u-Ao1r4gsiio1-1280-gif-1000-300-in-2024-Pixel-art-design-Pixel-art-background-Pix.gif" />
 </p>
@@ -22,13 +21,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer who enjoys building clean, scalable, and user-friendly web applications. I love turning ideas into real-world projects while continuously improving my skills in modern web development.
+I'm a passionate Full Stack Developer who enjoys building clean, scalable, and user-friendly web applications. I love turning ideas into real-world projects while continuously improving my skills in modern web development. I believe that well-structured code and intuitive design go hand in hand to create meaningful digital experiences. I'm currently focused on strengthening my backend development skills and exploring cloud technologies, APIs, and AI-powered applications. I enjoy solving problems, learning new technologies, and building projects that challenge me to grow as a developer.
 
 - 💻 Full Stack Developer (React, Node.js, Express.js, MongoDB)
 - 🚀 Passionate about Backend Development & REST APIs
-- 👩‍🏫 Mentoring students in building full-stack applications
+- 👩‍🏫 Mentoring students in building full-stack web applications, guiding them through project architecture, development workflows, debugging, and best coding practices.
 - 🤖 Interested in AI, Cloud Computing & Modern Web Technologies
-- 🌱 Continuously learning and improving problem-solving skills
+- 🌱 Continuously learning new technologies and improving my problem-solving skill.
 - 📚 Open to collaboration and open-source contributions
 
 ---
@@ -65,9 +64,9 @@ I'm a passionate Full Stack Developer who enjoys building clean, scalable, and u
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Vite |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, MVC |
 | **Database** | MongoDB, Firebase |
-| **Deployment** | Linux, Vercel, Render |
-| **AI** | OpenAI API, Prompt Engineering, AI Integrations |
-| **Tools** | Git, GitHub, Postman, VS Code, Notion, Figma |
+| **Cloud and Deployment** | AWS EC2, Docker, GitHub Actions, CI/CD, Linux, SSH, Vercel, Render |
+| **AI & Modern Teachnologies** | OpenAI API, Prompt Engineering, Generative AI, AI Integrations, LLM Workflows |
+| **Tools** | Git, GitHub, Postman, VS Code, Notion, Figma, Swagger |
 
 ---
 
@@ -92,4 +91,3 @@ I'm a passionate Full Stack Developer who enjoys building clean, scalable, and u
 <p align="center">
   <i>"const passion = Infinity;"</i>
 </p>
-```
