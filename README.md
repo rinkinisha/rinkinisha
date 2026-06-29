@@ -45,18 +45,6 @@ I'm a passionate Full Stack Developer who enjoys building clean, scalable, and u
 
 ---
 
-## 👾 Contribution Arcade
-
-<p align="center">
-  <img src="https://github.com/rinkinisha/rinkinisha/blob/output/pacman-contribution-graph-dark.svg?raw=true" />
-</p>
-
-<p align="center">
-  <i>Leveling up one commit at a time 🚀</i>
-</p>
-
----
-
 ## 🛠️ Technical Arsenal
 
 | Category | Skills |
