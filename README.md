@@ -36,10 +36,10 @@ I'm a passionate Full Stack Developer who enjoys building clean, scalable, and u
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinkinisha&theme=github-dark-blue&hide_border=true" />
-</p>
+</p> 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rinkinisha&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rinkinisha&show_icons=true&theme=tokyonight&hide_border=true"/> -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinkinisha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
