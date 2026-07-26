@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/TD44YG5y/tumblr-owi25v6u-Ao1r4gsiio1-1280-gif-1000-300-in-2024-Pixel-art-design-Pixel-art-background-Pix.gif" />
+  <img src="" />
 </p>
 
 <h1 align="center">👋 Hey There, Rinki Nisha!</h1>
