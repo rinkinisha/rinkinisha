@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/rinkinisha?label=Followers&style=for-the-badge&color=black&logo=github" />
-  <img src="https://img.shields.io/badge/Vibe%20Coding-Active-blueviolet?style=for-the-badge&logo=visualstudiocode" />
+  <!-- <img src="https://img.shields.io/badge/Vibe%20Coding-Active-blueviolet?style=for-the-badge&logo=visualstudiocode" /> -->
 </p>
 
 <p align="center">
