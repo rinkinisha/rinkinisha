@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/rinkinisha?label=Followers&style=for-the-badge&color=black&logo=github" />
-  <!-- <img src="https://img.shields.io/badge/Vibe%20Coding-Active-blueviolet?style=for-the-badge&logo=visualstudiocode" /> -->
+<img src="https://img.shields.io/badge/Vibe%20Coding-Active-blueviolet?style=for-the-badge&logo=visualstudiocode" /> 
 </p>
 
 <p align="center">
@@ -38,10 +38,10 @@ I'm a passionate Full Stack Developer who enjoys building clean, scalable, and u
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinkinisha&theme=github-dark-blue&hide_border=true" />
 </p> 
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rinkinisha&show_icons=true&theme=tokyonight&hide_border=true"/> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinkinisha&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinkinisha&theme=github-compact&hide_border=true"/>
 </p>
