@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" />
+  <img src="IMG.png" height=250px width =100% />
 </p>
 
 <h1 align="center">👋 Hey There, Rinki Nisha!</h1>
