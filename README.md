@@ -2,7 +2,7 @@
   <img src="IMG.png" height=250px width =100% />
 </p>
 
-<h1 align="center">👋 Hey There, Rinki Nisha!</h1>
+<h1 align="center">👋 Hey, Rinki Nisha!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Hackathon+Enthusiast;Always+Learning+New+Things" />
