@@ -2,7 +2,7 @@
   <img src="IMG.png" height=250px width =100% />
 </p>
 
-<h1 align="center">👋 Hey, Rinki Nisha!</h1>
+<h1 align="center">👋 Hey There, Rinki Nisha!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Hackathon+Enthusiast;Always+Learning+New+Things" />
@@ -55,7 +55,7 @@ I'm a passionate Full Stack Developer who enjoys building clean, scalable, and u
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Vite |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, MVC |
 | **Database** | MongoDB, Firebase |
-| **Cloud and Deployment** | AWS EC2, Docker, GitHub Actions, CI/CD, Linux, SSH, Vercel, Render |
+| **Cloud and Deployment** | AWS EC2, Docker, GitHub Actions, CI/CD, Linux, Vercel, Render |
 | **AI & Modern Teachnologies** | OpenAI API, Prompt Engineering, Generative AI, AI Integrations, LLM Workflows |
 | **Tools** | Git, GitHub, Postman, VS Code, Notion, Figma, Swagger |
 
