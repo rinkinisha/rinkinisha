@@ -56,7 +56,7 @@ I'm a passionate Full Stack Developer who enjoys building clean, scalable, and u
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, MVC |
 | **Database** | MongoDB, Firebase |
 | **Cloud and Deployment** | AWS EC2, Docker, GitHub Actions, CI/CD, Linux, Vercel, Render |
-| **AI & Modern Teachnologies** | OpenAI API, Prompt Engineering, Generative AI, AI Integrations, LLM Workflows |
+| **AI & Modern Teachnologies** | Prompt Engineering,  AI Integrations, LLM Workflows |
 | **Tools** | Git, GitHub, Postman, VS Code, Notion, Figma, Swagger |
 
 ---
@@ -68,7 +68,7 @@ I'm a passionate Full Stack Developer who enjoys building clean, scalable, and u
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="mailto:rinkinisha24@navgurukul.org">
+  <a href="mailto:rinki.nisha02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
