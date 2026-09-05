@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey There, Rinki Nisha!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Hackathon+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Hackathon+Enthusiast;Always+Learning+New+Things;Leader;Mentor" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mongodb,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,firebase,mongodb,github,figma" />
 </p>
 
 ---
